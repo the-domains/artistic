@@ -2,6 +2,7 @@ name: artistic
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.49878
+title: Artistic
 cta:
   domain: null
   bucket: null
