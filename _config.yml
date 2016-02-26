@@ -1,0 +1,28 @@
+name: artistic
+favicon: null
+layout_spectrum: 0.8636991495732218
+typography_spectrum: 0.36092371377162635
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.261406542500481
+  lightness: 0.6320622307248414
+  saturation: 0.514505251776427
+  rhythmicContrast: 0.5588843130972236
+purpose: []
